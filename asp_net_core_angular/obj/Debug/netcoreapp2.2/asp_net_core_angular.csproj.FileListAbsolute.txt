@@ -1,0 +1,14 @@
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\obj\Debug\netcoreapp2.2\asp_net_core_angular.csproj.CoreCompileInputs.cache
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\obj\Debug\netcoreapp2.2\asp_net_core_angular.AssemblyInfoInputs.cache
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\obj\Debug\netcoreapp2.2\asp_net_core_angular.AssemblyInfo.cs
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\bin\Debug\netcoreapp2.2\asp_net_core_angular.deps.json
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\bin\Debug\netcoreapp2.2\asp_net_core_angular.runtimeconfig.json
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\bin\Debug\netcoreapp2.2\asp_net_core_angular.runtimeconfig.dev.json
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\bin\Debug\netcoreapp2.2\asp_net_core_angular.dll
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\bin\Debug\netcoreapp2.2\asp_net_core_angular.pdb
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\obj\Debug\netcoreapp2.2\asp_net_core_angular.RazorAssemblyInfo.cache
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\obj\Debug\netcoreapp2.2\asp_net_core_angular.RazorAssemblyInfo.cs
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\obj\Debug\netcoreapp2.2\asp_net_core_angular.RazorTargetAssemblyInfo.cache
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\obj\Debug\netcoreapp2.2\asp_net_core_angular.dll
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\obj\Debug\netcoreapp2.2\asp_net_core_angular.pdb
+F:\coding\C#\ASP.NET\asp_net_core_angular\asp_net_core_angular\obj\Debug\netcoreapp2.2\asp_net_core_angular.csprojAssemblyReference.cache
